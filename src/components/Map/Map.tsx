@@ -26,7 +26,7 @@ export const Map: React.FC = memo(() => {
         zoom: 15,
       }}
       state={{
-        center: centerPoint.length ? centerPoint.reverse() : [55.753995, 37.614069],
+        center: centerPoint.length ? centerPoint : [55.753995, 37.614069],
         zoom: 15,
       }}
       height={'800px'}
