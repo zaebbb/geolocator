@@ -1,0 +1,26 @@
+.Panel {
+  position: absolute;
+  z-index: 2;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  display: inline-block;
+
+  width: 100%;
+  max-width: 500px;
+  padding: 25px;
+
+  background: rgb(0 0 0 / 35%);
+  border-radius: 20px;
+}
+
+.GeyItems {
+  overflow-y: auto;
+
+  max-height: 600px;
+  margin-top: 15px;
+
+  background: #fff;
+  border-radius: 10px;
+}
