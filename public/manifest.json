@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GeoLocator",
+  "name": "GeoLocator",
   "icons": [
     {
       "src": "favicon.ico",
